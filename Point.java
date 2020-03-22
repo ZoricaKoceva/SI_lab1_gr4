@@ -3,7 +3,7 @@ class Point {
 	double x,y;
 
 	//TODO add new variable
-
+	String dotColor;
 	//TODO constructor
 
 	//TODO setters and getters
